@@ -1,0 +1,19 @@
+* F:\Desktop Backup\Desktop\LT_py\Sec7-3 Project overview\Project_2nd_LPF_TRAN.asc
+V1 IN 0 SINE(0 5 {Freq} 0 0)
+R1 N001 IN {Res1}
+C1 N001 0 {Cap1}
+C2 OUT 0 {Cap2}
+R2 OUT N001 {Res2}
+.tran 5m
+* Introduction of the 2nd order RC low-pass filter (LPF)\nAuthor: Ye Zhao, EEsanity.   Date: 02/15/2020
+.save V(in) V(out)
+* .SAVE -- Limit the Quantity of Saved Data.
+.options plotwinsize=0
+* To turn off raw-data compression
+* Simulation setup
+.param Freq=1k
+* Input frequency
+.param Res1=1k Cap1=0.1u Res2=1k Cap2=1u
+* Four variables {Res1}, {Res2}, {Cap1} and {Cap2}
+.backanno
+.end
