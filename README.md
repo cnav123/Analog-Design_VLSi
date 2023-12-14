@@ -1,4 +1,8 @@
 # Analog-Design_VLSi
 Here you will be finding the .asc, .cir files of different circuit using LTspice tool
 
-Here I am attatching documents on how to install LTspice
+Go to this link to Install LTspice
+
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+
+
