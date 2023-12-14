@@ -1,3 +1,7 @@
+Source : - The below project is the HW of the Cource in Udemy "Automate LTspice Circuit Simulation Using Python Scripting" by "Prof Ye Zhao PhD"
+
+Link:- https://www.udemy.com/share/102T0i3@QHHo590GPNY5Aecv64IWDrnDLgvUTXJ-pWLnvSNNIskBKGJImYl1mcylInhY8ESK/
+
 In this project I have worked on a Project for Automating the process of Simulation of LTspice circuit Using Python
 
 Step 1:- Create the txt files (netlist) from the given asc file
