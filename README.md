@@ -5,6 +5,6 @@ Go to this link to Install LTspice
 
 https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
 
-1. 2nd Order Low pass Filter. (Here we varry the varialbles like)
+1. 2nd Order Low pass Filter. (Here we varry the varialbles like both resistors and both the capacitors & observe the changes)
 
 
